@@ -1,0 +1,25 @@
+/* Write your code here. */
+.question-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.faq-item {
+  border: 1px solid #d7dae6;
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.question {
+  color: #52606d;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+}
